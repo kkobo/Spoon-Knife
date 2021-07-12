@@ -3,6 +3,14 @@
   padding:0px;
 }
 
+blockquote {
+  margin: 0 45%;
+}
+
+h3 {
+  text-align: center;
+}
+
 #octocat {
   display: block;
   width:384px;
